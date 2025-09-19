@@ -1,0 +1,21 @@
+freedomcast/
+├── public/
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   ├── Editor.tsx
+│   │   ├── PostCard.tsx
+│   │   └── WalletConnect.tsx
+│   ├── pages/
+│   │   ├── index.tsx
+│   │   ├── publish.tsx
+│   │   └── _app.tsx
+│   ├── styles/
+│   │   └── globals.css
+│   ├── utils/
+│   │   └── encrypt.ts
+├── .gitignore
+├── package.json
+├── tailwind.config.js
+├── tsconfig.json
+└── README.md
